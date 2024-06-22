@@ -65,12 +65,17 @@
 
 
 ## Github Stats  
-<table align="">
+<table>
 <tr><td>
 <img src="https://github-readme-stats.vercel.app/api?username=poojasonu10&theme=gotham&show_icons=true&count_private=true&hide_border=true" /> 	
 </td></tr>	
 </table>
 <br/>
+
+## Github Streak Stats
+<table><tr><td>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=poojasonu10&theme=gotham&hide_border=true&border_radius=0&type=png" alt="GitHub Streak" /></a>
+</td></tr></table>
 <table><tr><td><p align="center">
   <a href='mailto:workpooja02@gmail.com'>
     <b><i>Let's connect! :incoming_envelope:</i></b>
