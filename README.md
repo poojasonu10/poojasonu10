@@ -72,7 +72,7 @@
 </table>
 <br/>
 <table><tr><td><p align="center">
-  <a href='mailto:anshu.shah63@gmail.com'>
+  <a href='mailto:workpooja02@gmail.com'>
     <b><i>Let's connect! :incoming_envelope:</i></b>
   </a>
  </p></td></tr></table>
