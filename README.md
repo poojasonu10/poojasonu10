@@ -71,9 +71,11 @@
 </td></tr>	
 </table>
 <br/>
-<br/>
-<br/>  
-
+<table><tr><td><p align="center">
+  <a href='mailto:anshu.shah63@gmail.com'>
+    <b><i>Let's connect! :incoming_envelope:</i></b>
+  </a>
+ </p></td></tr></table>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=poojasonu10&&style=flat-square" align="center" />
 </div>  
