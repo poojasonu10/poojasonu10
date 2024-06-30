@@ -1,8 +1,6 @@
   
 ## Hey 👋 I'm Pooja Sonu, a Frontend Developer 👨‍💻 working in tech since 2023 🚀</div>  
   
-
-- 🔭 I’m currently working in [Error To Array](https://errortoarray.com/)  
   
 
 - 🌱 I’m currently learning [React.js](https://www.w3schools.com/react/default.asp) 
